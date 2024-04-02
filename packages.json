@@ -1,0 +1,10 @@
+{
+  "v": "0.1.0",
+  "items": [
+    {
+      "name": "kotest",
+      "website": "https://kotest.io",
+      "semver": "no"
+    }
+  ]
+}
