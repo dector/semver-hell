@@ -4,6 +4,10 @@
     {
       "name": "kotest",
       "website": "https://kotest.io",
+      "artefact": {
+        "type": "maven",
+	"groupId": "io.kotest"
+      },
       "semver": "no"
     }
   ]
