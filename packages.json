@@ -6,7 +6,7 @@
       "website": "https://kotest.io",
       "artefact": {
         "type": "maven",
-	"groupId": "io.kotest"
+        "groupId": "io.kotest"
       },
       "semver": "no"
     }
